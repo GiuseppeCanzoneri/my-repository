@@ -26,9 +26,6 @@ function AboutCard() {
               <ImPointRight /> Viaggiare
             </li>
           </ul>
-
-          <p style={{ color: "rgb(155, 126, 172)" }}>"Cerco sempre di costruire cose che fanno la differenza!" </p>
-          <footer className="blockquote-footer">Giuseppe</footer>
         </blockquote>
       </Card.Body>
     </Card>
