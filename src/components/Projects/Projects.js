@@ -26,8 +26,8 @@ function Projects() {
             <ProjectCard
               imgPath={skyCast}
               isBlog={false}
-              title="Sky Cast Live"
-              description="🌤️ Scoprite il potere di conoscere in anticipo le condizioni meteorologiche con Sky Cast Live! ☔ Grazie all'utilizzo di React e Redux, ho dato vita a un'app intuitiva e coinvolgente per tenervi informati su sole, pioggia o neve. Prendete il controllo della vostra giornata con previsioni in tempo reale e avvisi personalizzati. Non lasciate che il tempo vi sorprenda, lasciate che Sky Cast Live vi dia una mano! 🌦️📊"
+              title="Sky Cast Live 🌤️"
+              description=" Scoprite il potere di conoscere in anticipo le condizioni meteorologiche con Sky Cast Live! ☔ Grazie all'utilizzo di React e Redux, ho dato vita a un'app intuitiva e coinvolgente per tenervi informati su sole, pioggia o neve. Prendete il controllo della vostra giornata con previsioni in tempo reale e avvisi personalizzati. Non lasciate che il tempo vi sorprenda, lasciate che Sky Cast Live vi dia una mano! 🌦️📊"
               ghLink="https://github.com/GiuseppeCanzoneri/meteo-react"
             />
           </Col>
