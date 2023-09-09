@@ -41,7 +41,7 @@ function Projects() {
               imgPath={Spotify}
               isBlog={false}
               title="Spostify Clone"
-              description="Un clone di Spotify realizzato con React è un'applicazione web che riproduce le principali funzionalità di Spotify, consentendo agli utenti di cercare, riprodurre e gestire la musica. L'applicazione presenta un'interfaccia utente simile a quella di Spotify, con schede per la home, la ricerca, la libreria e le playlist personali. Gli utenti possono effettuare l'accesso, cercare brani, ascoltare musica in streaming, creare playlist e gestire il proprio account. La tecnologia principale utilizzata è React, con eventuali framework di stile come Bootstrap per la progettazione."
+              description="Un clone di Spotify realizzato con React è un'applicazione web che riproduce le principali funzionalità di Spotify, consentendo agli utenti di cercare, riprodurre e gestire la musica. L'applicazione presenta un'interfaccia utente simile a quella di Spotify, con schede per la home, la ricerca, la libreria e le playlist personali. Gli utenti possono  cercare brani, e guardare la tracklist degli album. La tecnologia principale utilizzata è React, con eventuali framework di stile come Bootstrap per la progettazione."
               ghLink="https://github.com/GiuseppeCanzoneri/spotify-redux"
             />
           </Col>
@@ -50,7 +50,7 @@ function Projects() {
               imgPath={Netflix}
               isBlog={false}
               title="Netflix Clone"
-              description="Un clone di Netflix con React è un'applicazione web che emula l'aspetto e le funzionalità di Netflix. Gli utenti possono accedere, sfogliare un catalogo di film e serie TV, cercare contenuti specifici, riprodurre video in streaming, e gestire il proprio profilo. L'interfaccia utente è simile a quella di Netflix, con una homepage, una barra di ricerca e pagine dettagliate per ciascun titolo. React è il principale framework utilizzato per la creazione dell'interfaccia."
+              description="Un clone di Netflix con React è un'applicazione web che emula l'aspetto e le funzionalità di Netflix. Gli utenti possono sfogliare un catalogo di film e serie TV, cercare contenuti specifici, e gestire il proprio profilo. L'interfaccia utente è simile a quella di Netflix, con una homepage, una barra di ricerca e pagine dettagliate per ciascun titolo. React è il principale framework utilizzato per la creazione dell'interfaccia."
               ghLink="https://github.com/GiuseppeCanzoneri/react-netflix"
             />
           </Col>
@@ -59,7 +59,7 @@ function Projects() {
               imgPath={Space}
               isBlog={false}
               title=" Space Flight"
-              description="Un clone di Netflix con React è un'applicazione web che emula l'aspetto e le funzionalità di Netflix. Gli utenti possono accedere, sfogliare un catalogo di film e serie TV, cercare contenuti specifici, riprodurre video in streaming, e gestire il proprio profilo. L'interfaccia utente è simile a quella di Netflix, con una homepage, una barra di ricerca e pagine dettagliate per ciascun titolo. React è il principale framework utilizzato per la creazione dell'interfaccia."
+              description="Space Flight News è un'applicazione web realizzata con TypeScript che fornisce notizie e articoli sul volo spaziale. Gli utenti possono , leggere notizie e articoli, cercare contenuti specifici. TypeScript è utilizzato per migliorare la qualità del codice."
               ghLink="https://github.com/GiuseppeCanzoneri/ts-project-spaceflight"
             />
           </Col>
