@@ -7,6 +7,7 @@ import Meteo from "../..//Assets/Projects/Meteo.png";
 import Spotify from "../../Assets/Projects/spotify.png";
 import Netflix from "../../Assets/Projects/netflix.jpg";
 import Space from "../../Assets/Projects/space.jpg";
+import teneriVibes from "../../Assets/Projects/tenerife.png";
 
 function Projects() {
   return (
@@ -25,6 +26,16 @@ function Projects() {
               title="Travel Planner 🛩️"
               description="Travel Planner è un'applicazione completa per la pianificazione e la gestione dei viaggi. Sfrutta le potenzialità di React per il frontend, Spring Boot per il backend e Redux per la gestione dello stato. Con Travel Planner, gli utenti possono facilmente organizzare i loro viaggi, ottenere itinerari personalizzati e gestire le proprie informazioni utente, il tutto in un'unica piattaforma intuitiva. 🗺️📅"
               ghLink="https://github.com/GiuseppeCanzoneri/CAPSTONE-FRONTEND-Travel-Planner/tree/master"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={teneriVibes}
+              isBlog={false}
+              title=" Teneri Vibes"
+              description="TeneriVibes è l'app definitiva per esplorare Tenerife come un vero insider. Scopri consigli locali, luoghi da visitare e soluzioni per il tuo budget, tutto basato sull'esperienza di sette appassionati viaggiatori che hanno esplorato l'isola. La tua avventura a Tenerife inizia qui!"
+              ghLink="https://github.com/GiuseppeCanzoneri/Tenerife-Vibes"
+              demoLink="https://tenery-vibes.vercel.app"
             />
           </Col>
           <Col md={4} className="project-card">
