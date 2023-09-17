@@ -32,7 +32,7 @@ function Projects() {
             <ProjectCard
               imgPath={teneriVibes}
               isBlog={false}
-              title=" Teneri Vibes"
+              title=" Teneri Vibes🌴 "
               description="TeneriVibes è l'app definitiva per esplorare Tenerife come un vero insider. Scopri consigli locali, luoghi da visitare e soluzioni per il tuo budget, tutto basato sull'esperienza di sette appassionati viaggiatori che hanno esplorato l'isola. La tua avventura a Tenerife inizia qui!"
               ghLink="https://github.com/GiuseppeCanzoneri/Tenerife-Vibes"
               demoLink="https://tenery-vibes.vercel.app"
