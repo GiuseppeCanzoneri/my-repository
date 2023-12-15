@@ -32,6 +32,27 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={Agora}
+              isBlog={false}
+              title="L'Agorà"
+              description="L'Agorà , la tua destinazione per un soggiorno indimenticabile! Esplora la nostra selezione di accoglienti bed and breakfast, ognuno caratterizzato da un'autentica atmosfera locale e servizi di prima classe. Prenota con facilità, scegliendo tra camere confortevoli e ospitalità calorosa. Approfitta delle recensioni degli ospiti per garantirti una scelta perfetta. Con il nostro sistema di prenotazione online sicuro e veloce, pianificare la tua fuga diventa un gioco da ragazzi. Scegli la comodità e il calore di un B&B unico, prenota ora su L'agorà."
+              ghLink="https://github.com/GiuseppeCanzoneri/L-agora-restaurant"
+              demoLink="https://l-agora-vercell.vercel.app"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Tec}
+              isBlog={false}
+              title=" TecHub"
+              description="
+              TecHub è il tuo destinatario per le ultime innovazioni! Esplora una vasta gamma di prodotti tecnologici, dai dispositivi intelligenti alle ultime novità in telefonia elettronica. Scopri l'avanzata selezione di gadget, accessori e dispositivi elettronici di alta qualità, tutti a portata di clic. Approfitta delle offerte esclusive e della spedizione veloce per rendere la tua esperienza di acquisto tecnologico facile e conveniente. Scegli la tecnologia che ami, al prezzo che desideri, solo su TecHub."
+              ghLink="https://github.com/GiuseppeCanzoneri/PhoneHub-E-commerce"
+              demoLink="https://tecno-hub-vercell.vercel.app/#/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={teneriVibes}
               isBlog={false}
               title=" Teneri Vibes🌴 "
@@ -74,27 +95,6 @@ function Projects() {
               title=" Space Flight"
               description="Space Flight News è un'applicazione web realizzata con TypeScript che fornisce notizie e articoli sul volo spaziale. Gli utenti possono , leggere notizie e articoli, cercare contenuti specifici. TypeScript è utilizzato per migliorare la qualità del codice."
               ghLink="https://github.com/GiuseppeCanzoneri/ts-project-spaceflight"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Agora}
-              isBlog={false}
-              title="L'Agorà"
-              description="L'Agorà , la tua destinazione per un soggiorno indimenticabile! Esplora la nostra selezione di accoglienti bed and breakfast, ognuno caratterizzato da un'autentica atmosfera locale e servizi di prima classe. Prenota con facilità, scegliendo tra camere confortevoli e ospitalità calorosa. Approfitta delle recensioni degli ospiti per garantirti una scelta perfetta. Con il nostro sistema di prenotazione online sicuro e veloce, pianificare la tua fuga diventa un gioco da ragazzi. Scegli la comodità e il calore di un B&B unico, prenota ora su L'agorà."
-              ghLink="https://github.com/GiuseppeCanzoneri/L-agora-restaurant"
-              demoLink="https://l-agora-vercell.vercel.app"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Tec}
-              isBlog={false}
-              title=" TecHub"
-              description="
-              TecHub è il tuo destinatario per le ultime innovazioni! Esplora una vasta gamma di prodotti tecnologici, dai dispositivi intelligenti alle ultime novità in telefonia elettronica. Scopri l'avanzata selezione di gadget, accessori e dispositivi elettronici di alta qualità, tutti a portata di clic. Approfitta delle offerte esclusive e della spedizione veloce per rendere la tua esperienza di acquisto tecnologico facile e conveniente. Scegli la tecnologia che ami, al prezzo che desideri, solo su TecHub."
-              ghLink="https://github.com/GiuseppeCanzoneri/PhoneHub-E-commerce"
-              demoLink="https://tecno-hub-vercell.vercel.app/#/"
             />
           </Col>
         </Row>
