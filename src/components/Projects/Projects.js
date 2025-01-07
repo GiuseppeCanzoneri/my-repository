@@ -30,14 +30,6 @@ function Projects() {
               ghLink="https://github.com/GiuseppeCanzoneri/CAPSTONE-FRONTEND-Travel-Planner/tree/master"
             />
           </Col>
-          <Co md={4} className="project-card">
-            <ProjectCard
-            
-            
-            
-            />
-          
-          </Co>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Agora}
